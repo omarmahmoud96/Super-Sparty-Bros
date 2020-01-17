@@ -1,1 +1,1 @@
-2D platformer gmae
+2D platformer game
